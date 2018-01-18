@@ -15,7 +15,28 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Source.c">
+    <ClCompile Include="BankManagementSystem.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CheckerBoardOfAnySize.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DoublyLinkedList.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FileSizeInBytes.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FtoCorCtoF.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MakingChange.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MaxContiguousSubsequence.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TableGenerationAndSearch.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
